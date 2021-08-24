@@ -7,4 +7,4 @@ Time series data, as the name indicates, differ from other types of data in the 
 Analysts can tell the difference between random fluctuations or outliers, and can separate genuine insights from seasonal variations. Time series analysis shows how data changes over time, and good forecasting can identify the direction in which the data is changing.
 
 ![img.png](Day_1/code.png) 
-![img.png](Day_1/plot.png) 
+![img.png](Day_1/plot.png)
